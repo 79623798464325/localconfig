@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "dart.flutterSdkPath": "/Users/spgb/flutter",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "git.openRepositoryInParentFolders": "never",
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "update.showReleaseNotes": false,
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "chat.tools.terminal.autoApprove": {
+        "sed": true,
+        "uniq": true,
+        "awk": true,
+        "dart": true,
+        "flutter": true,
+        "/usr/bin/python3": true,
+        "/^python3 ~/Documents/lemmy_connect/cpu_analysis\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "tee": true,
+        "git fetch": true,
+        "git tag": true
+    },
+    "claudeCode.preferredLocation": "panel",
+    "chat.agent.maxRequests": 75
+}
